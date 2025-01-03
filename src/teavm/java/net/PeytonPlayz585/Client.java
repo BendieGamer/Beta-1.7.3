@@ -148,8 +148,8 @@ public class Client {
 				str.append(t);
 				str.append('\n').append('\n');
 				str.append("minecraft.version = \"Beta 1.7.3\"\n");
-				str.append("minecraft.author = \"PeytonPlayz585\"\n");
-				str.append("minecraft.brand = \"eaglercraft\"\n");
+				str.append("minecraft.author = \"MG\"\n");
+				str.append("minecraft.brand = \"MInecraftia\"\n");
 				str.append('\n');
 				str.append(addWebGLToCrash());
 				str.append('\n');
